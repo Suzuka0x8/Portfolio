@@ -35,13 +35,13 @@ function About() {
             </Col>
           </Row>
           <h1 className="project-heading">
-            Professional <strong className="purple">Skillset </strong>
+            Meine <strong className="purple">Skills </strong>
           </h1>
 
           <Techstack />
 
           <h1 className="project-heading">
-            <strong className="purple">Tools</strong> I use
+            <strong className="purple">Tools</strong> die ich nutze
           </h1>
           <Toolstack />
 

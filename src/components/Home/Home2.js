@@ -16,39 +16,39 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              LET ME <span className="purple"> INTRODUCE </span> MYSELF
+              LASSEN SIE MICH IHNEN<span className="purple"> VORSTELLEN </span>
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+            Ich habe mich in das Programmieren verliebt und zumindest etwas gelernt, denke ich… 🤷‍♂️
               <br />
-              <br />I am fluent in classics like
+              <br />Ich lerne C++, Game Hacking und Ich kenne
               <i>
                 <b className="purple"> Javascript and Python. </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              Meine Interessensgebiete liegen im &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
+                <b className="purple">Reverse Engineering und in der Webentwicklung </b> sowie
+                 in Bereichen rund um{" "}
                 <b className="purple">
                   Deep Learning and Natural Launguage Processing.
                 </b>
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              Wann immer möglich, setze ich meine Leidenschaft auch für die Entwicklung von 
+              Produkten mit
+              <b className="purple"> Node.js</b> und
               <i>
                 <b className="purple">
                   {" "}
-                  Modern Javascript Library and Frameworks
+                  Modern Javascript Library und Frameworks
                 </b>
               </i>
-              &nbsp; like
+              &nbsp; wie
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="purple"> React.js und Next.js ein</b>
               </i>
             </p>
           </Col>
@@ -60,9 +60,9 @@ function Home2() {
         </Row>
         <Row>
           <Col md={12} className="home-about-social">
-            <h1>FIND ME ON</h1>
+            <h1>KONTAKTIERE MICH</h1>
             <p>
-              Feel free to <span className="purple">connect </span>with me
+            Fühlen Sie sich frei mich zu <span className="purple">kontaktieren </span>
             </p>
             <ul className="home-about-social-links">
               <li className="social-icons">

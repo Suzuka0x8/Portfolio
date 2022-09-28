@@ -8,28 +8,27 @@ function AboutCard() {
             <Card.Body>
                 <blockquote className="blockquote mb-0">
                     <p style={{ textAlign: "justify" }}>
-                        Hi Everyone, I am <span className="purple">Emilian Treek </span>
-                        from <span className="purple"> Dortmund, Germany.</span>
-                        <br />I am a junior pursuing BKO in 
-                        Computer science.
+                        Hallo zusammen, Ich bin <span className="purple">Emilian Treek </span>
+                        aus <span className="purple"> Dortmund, Deutschland.</span>
+                        <br />Ich besuche das BKO in Datteln, Schwerpunkt Informatik
                         <br />
                         <br />
-                        Apart from coding, some other activities that I love to do!
+                        Abgesehen vom Coden, einige andere Aktivitäten, die ich gerne mache!
                     </p>
                     <ul>
                         <li className="about-activity">
-                            <ImPointRight /> Playing Games
+                            <ImPointRight /> Games Spielen
                         </li>
                         <li className="about-activity">
-                            <ImPointRight /> Learning Languages
+                            <ImPointRight /> Japanisch lernen
                         </li>
                         <li className="about-activity">
-                            <ImPointRight /> Playing Guitar
+                            <ImPointRight /> Gitarre Spielen
                         </li>
                     </ul>
 
                     <p style={{ color: "rgb(155 126 172" }}>
-                        "Strive to build things that make a difference!"{" "}
+                        "Bemühe dich, Dinge zu Entwickeln, die einen Unterschied machen!"{" "}
                     </p>
                     <footer className="blockquote-footer">Emilian</footer>
                 </blockquote>
