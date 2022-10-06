@@ -22,7 +22,7 @@
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [RushiaDeV](https://github.com/RushiaDeV/Portfolio/). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Suzuka0x8](https://github.com/Suzuka0x8/Portfolio/). Thanks!
 
 ## Built With
 
