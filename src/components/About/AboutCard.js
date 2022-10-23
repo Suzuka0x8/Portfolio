@@ -1,6 +1,6 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
-import { ImPointRight } from "react-icons/im";
+import { ImArrowRight } from "react-icons/im";
 
 function AboutCard() {
     return (
@@ -9,21 +9,21 @@ function AboutCard() {
                 <blockquote className="blockquote mb-0">
                     <p style={{ textAlign: "justify" }}>
                         Hallo zusammen, Ich bin <span className="purple">Emilian Treek </span>
-                        aus <span className="purple"> Dortmund, Deutschland.</span>
-                        <br />Ich besuche das BKO in Datteln, Schwerpunkt Informatik
+                        aus <span className="purple"> Waltrop, Deutschland.</span>
+                        <br />Ich besuche das <span className="purple"> BKO in Datteln, Schwerpunkt Informatik </span>
                         <br />
                         <br />
-                        Abgesehen vom Coden, einige andere Aktivitäten, die ich gerne mache!
+                        Abgesehen vom <span className="purple"> Coden </span>, einige andere Aktivitäten, die ich gerne mache!
                     </p>
                     <ul>
                         <li className="about-activity">
-                            <ImPointRight /> Games Spielen
+                            <ImArrowRight /> Games Spielen
                         </li>
                         <li className="about-activity">
-                            <ImPointRight /> Japanisch lernen
+                            <ImArrowRight /> Sprachen lernen
                         </li>
                         <li className="about-activity">
-                            <ImPointRight /> Gitarre Spielen
+                            <ImArrowRight /> Wissen erweitern
                         </li>
                     </ul>
 

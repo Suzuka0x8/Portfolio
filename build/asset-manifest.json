@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fcb96ca2.css",
+    "main.js": "/static/js/main.f708d9cd.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/logo.png": "/static/media/logo.1023e3a86b5b101ec544.png",
+    "static/media/EmilianTreek_BKO.pdf": "/static/media/EmilianTreek_BKO.d2b34b459ab9340a3de7.pdf",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.fcb96ca2.css.map": "/static/css/main.fcb96ca2.css.map",
+    "main.f708d9cd.js.map": "/static/js/main.f708d9cd.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcb96ca2.css",
+    "static/js/main.f708d9cd.js"
+  ]
+}

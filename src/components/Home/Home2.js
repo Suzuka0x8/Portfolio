@@ -16,23 +16,23 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              LASSEN SIE MICH IHNEN<span className="purple"> VORSTELLEN </span>
+              WER BIN<span className="purple"> ICH </span>
             </h1>
             <p className="home-about-body">
             Ich habe mich in das Programmieren verliebt und zumindest etwas gelernt, denke ich… 🤷‍♂️
               <br />
-              <br />Ich lerne C++, Game Hacking und Ich kenne
+              <br />Ich lerne <b className="purple"> C++, Game Development, Game Hacking </b> und Ich kenne
               <i>
-                <b className="purple"> Javascript and Python. </b>
+                <b className="purple"> Javascript und Python. </b>
               </i>
               <br />
               <br />
               Meine Interessensgebiete liegen im &nbsp;
               <i>
-                <b className="purple">Reverse Engineering und in der Webentwicklung </b> sowie
+                <b className="purple">Reverse Engineering und in der Game Entwicklung </b> sowie
                  in Bereichen rund um{" "}
                 <b className="purple">
-                  Deep Learning and Natural Launguage Processing.
+                  Deep Learning und Natural Launguage Processing.
                 </b>
               </i>
               <br />
@@ -67,7 +67,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/RushiaDeV"
+                  href="https://github.com/Suzuka0x8"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -97,7 +97,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/rushia.babymetal/"
+                  href="https://www.instagram.com/suzuka.babymetal/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
