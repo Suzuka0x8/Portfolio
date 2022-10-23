@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="http://crmnl.club/" target="_blank">Emilian Treek</a>
+  <a href="https://emil-trk.web.app" target="_blank">Emilian Treek</a>
 </h2>
 
 <br/>
@@ -26,7 +26,7 @@ You can fork this repo to modify and make changes of your own. Please give me pr
 
 ## Built With
 
-My personal portfolio <a href="https://emil-treek.web.app" target="_blank">emil-treek.web.app</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://emil-trk.web.app" target="_blank">emil-trk.web.app</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
